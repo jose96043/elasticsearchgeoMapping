@@ -1,0 +1,12 @@
+{
+  "name": "scavengerhunt",
+  "description": "Scavenger sHunt Application",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "elasticsearch": "latest",
+    "express": "~4.0.0",
+    "node-promise": "latest",
+    "body-parser": "~1.0.1"
+  }
+}
